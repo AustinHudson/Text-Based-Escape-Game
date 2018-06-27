@@ -7,7 +7,7 @@
 #
 # Project Name
 #
-PROJ = finalProject
+PROJ = escapeGame
 #
 # Compiler
 #
